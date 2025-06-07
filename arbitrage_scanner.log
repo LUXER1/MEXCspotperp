@@ -1,0 +1,128 @@
+2025-06-06 13:34:57,157 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getMe "HTTP/1.1 200 OK"
+2025-06-06 13:34:57,158 - INFO - Application started
+2025-06-06 13:34:57,210 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-06 13:34:57,218 - INFO - Arbitrage scanner started
+2025-06-06 13:34:57,460 - INFO - Updated spot symbols cache: 0 pairs
+2025-06-06 13:35:07,407 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:08,089 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:35:08,560 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:08,789 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/sendMessage "HTTP/1.1 200 OK"
+2025-06-06 13:35:10,275 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:10,333 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getChatMember "HTTP/1.1 200 OK"
+2025-06-06 13:35:10,411 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/sendMessage "HTTP/1.1 200 OK"
+2025-06-06 13:35:11,957 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:12,039 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/sendMessage "HTTP/1.1 200 OK"
+2025-06-06 13:35:20,080 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:35:22,026 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:32,087 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:32,087 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:35:35,529 - INFO - Updated top volume symbols: 200 pairs
+2025-06-06 13:35:42,143 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:46,087 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:35:52,200 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:35:57,229 - INFO - Performance: 0 checks/min | 60.01s/cycle
+2025-06-06 13:35:58,091 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:36:02,258 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:36:11,102 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:36:12,318 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:36:14,102 - INFO - Checking 0 symbols
+2025-06-06 13:36:14,683 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:36:22,382 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:36:25,102 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:36:32,440 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:36:37,096 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:36:42,499 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:36:50,087 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:36:52,559 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:36:53,084 - INFO - Checking 0 symbols
+2025-06-06 13:36:53,634 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:36:57,242 - INFO - Performance: 0 checks/min | 60.01s/cycle
+2025-06-06 13:37:02,619 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:37:04,104 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:37:12,678 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:37:16,091 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:37:22,739 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:37:29,098 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:37:32,106 - INFO - Checking 0 symbols
+2025-06-06 13:37:32,679 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:37:32,796 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:37:42,855 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:37:43,090 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:37:52,436 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:37:52,436 - INFO - Application is stopping. This might take a moment.
+2025-06-06 13:37:52,436 - INFO - Application.stop() complete
+2025-06-06 13:37:53,912 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getMe "HTTP/1.1 200 OK"
+2025-06-06 13:37:53,913 - INFO - Application started
+2025-06-06 13:37:53,967 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-06 13:37:53,969 - INFO - Arbitrage scanner started
+2025-06-06 13:37:54,212 - INFO - Updated spot symbols cache: 0 pairs
+2025-06-06 13:38:04,139 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:38:05,083 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:38:14,197 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:38:17,099 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:38:24,253 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:38:30,099 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:38:33,429 - INFO - Updated top volume symbols: 200 pairs
+2025-06-06 13:38:34,310 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:38:44,091 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:38:44,368 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:38:53,981 - INFO - Performance: 0 checks/min | 60.01s/cycle
+2025-06-06 13:38:54,424 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:38:56,093 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:39:04,482 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:39:09,091 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:39:12,107 - INFO - Checking 0 symbols
+2025-06-06 13:39:12,678 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:39:14,539 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:39:23,090 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:39:24,595 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:39:34,652 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:39:35,092 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:39:44,709 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:39:48,096 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:39:51,113 - INFO - Checking 0 symbols
+2025-06-06 13:39:51,663 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:39:54,003 - INFO - Performance: 0 checks/min | 60.02s/cycle
+2025-06-06 13:39:54,767 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:40:02,098 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:40:04,824 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:40:14,091 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:40:14,881 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:40:24,938 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:40:27,089 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:40:30,092 - INFO - Checking 0 symbols
+2025-06-06 13:40:30,701 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:40:34,995 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:40:41,105 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:40:45,051 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:40:53,092 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:40:54,004 - INFO - Performance: 0 checks/min | 60.00s/cycle
+2025-06-06 13:40:55,107 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:05,163 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:06,101 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:41:09,105 - INFO - Checking 0 symbols
+2025-06-06 13:41:09,689 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:41:15,220 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:20,097 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:41:25,277 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:32,083 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:41:35,336 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:44,088 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:41:45,392 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:47,088 - INFO - Checking 0 symbols
+2025-06-06 13:41:47,642 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:41:54,010 - INFO - Performance: 0 checks/min | 60.01s/cycle
+2025-06-06 13:41:55,449 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:41:58,077 - ERROR - Network error: . Attempt 1/3
+2025-06-06 13:42:05,505 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:42:09,097 - ERROR - Network error: . Attempt 2/3
+2025-06-06 13:42:15,563 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:42:22,086 - ERROR - Network error: . Attempt 3/3
+2025-06-06 13:42:25,102 - INFO - Checking 0 symbols
+2025-06-06 13:42:25,619 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:42:25,721 - WARNING - Failed to fetch price data. Skipping check cycle.
+2025-06-06 13:42:30,763 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getUpdates "HTTP/1.1 200 OK"
+2025-06-06 13:42:30,763 - INFO - Application is stopping. This might take a moment.
+2025-06-06 13:42:30,763 - INFO - Application.stop() complete
+2025-06-06 13:42:32,402 - INFO - HTTP Request: POST https://api.telegram.org/bot8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE/getMe "HTTP/1.1 200 OK"
+2025-06-06 13:42:32,403 - INFO - Application started
