@@ -2,8 +2,8 @@
 import os
 
 # --- Telegram ---
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", '8070188488:AAGuc77t-x5s7YEsAY7ZejnuFO4HxU0kVcE')
-TELEGRAM_GROUP_ID = int(os.getenv("TELEGRAM_GROUP_ID", "-1002687605357"))
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", )
+TELEGRAM_GROUP_ID = int(os.getenv("TELEGRAM_GROUP_ID", ))
 THREAD_ID = 42
 
 # --- Thresholds ---
